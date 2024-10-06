@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">HomeWork</string>
+    <string name="zhuce">注册</string>
+    <string name="qqzhuce">QQ注册</string>
+    <string name="wxzhuce">微信注册</string>
+    <string name="yxzhuce">使用邮箱注册</string>
+    <string name="user">名字</string>
+    <string name="usertishi">请输入用户名</string>
+    <string name="youx">邮箱</string>
+    <string name="youxtishi">请输入邮箱</string>
+    <string name="mima">密码</string>
+    <string name="mimatishi">请输入密码</string>
+    <string name="gender">性别</string>
+    <string name="nan">男</string>
+    <string name="nv">女</string>
+    <string name="hobby">请选择兴趣爱好：</string>
+    <string name="chang">唱歌</string>
+    <string name="dance">跳舞</string>
+    <string name="read">读书</string>
+    <string name="submit">提交</string>
+
+    <string name="loginifo">登录信息</string>
+
+
+    <string name="ceshi">测试提示信息</string>
+    <string name="openResultAct">打开有结果的Activity</string>
+    <string name="guanbi">关闭</string>
+
+
+    <string name="title">RoomDatabase</string>
+    <string name="createDatabase">创建数据库</string>
+    <string name="updateDatabase">更新数据库</string>
+    <string name="insert">插入数据</string>
+    <string name="update">更新数据</string>
+    <string name="query">查询数据</string>
+    <string name="delete">删除数据</string>
+
+
+</resources>
